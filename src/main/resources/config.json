@@ -1,0 +1,19 @@
+[
+  {
+    "id":"f55955b6-1be6-4e84-ae68-75aaabccf01b",
+    "request-title":"Reqbin - test request",
+    "first-endpoint": "https://reqbin.com/echo/post/xml",
+    "second-endpoint": "https://reqbin.com/echo/post/xml",
+    "request-method": "POST",
+    "request-template": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Request><Login>login</Login><Password>password</Password></Request>"
+  },
+  {
+    "id":"c15e1e85-3f07-45ff-9635-c61040ecf1f3",
+    "request-title":"Reqbin - sample request",
+    "first-endpoint": "https://reqbin.com/echo/post/xml",
+    "second-endpoint": "https://reqbin.com/echo/post/xml",
+    "request-method": "POST",
+    "request-template": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Request><Login>login</Login><Password>password</Password></Request>"
+  }
+
+]
